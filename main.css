@@ -71,6 +71,8 @@ header h2 {
     font-weight: lighter;
     margin: 0;
     text-shadow: 1px rgb(26, 25, 25);
+    font-size: 20px bold;
+    
 }
 /*Nav Bar*/
 nav {
@@ -79,7 +81,7 @@ nav {
     letter-spacing: 0.05em;
     padding: 0.5em 0em 0em 1em;
     margin: 1em 0 0 0;
-    
+    font: Tahoma 20px bold;
 }
 nav ul {
     margin: 0;
@@ -142,6 +144,7 @@ nav#utilityMenu ul li.acctNav a, nav#utilityMenu ul li.acctNav a:visited {
     padding: 0.5em;
     margin: -0.4em 0 0 0;
     font-size: 0.8em;
+    font-style:
 }
 nav#utilityMenu ul li.acctNav a:active {
     background-color: brown;
@@ -159,6 +162,7 @@ nav#utilityMenu ul li input#search {
 #search {
     border-radius: .25em;
 }
+
 br {
     color: 2px whitesmoke;
     border-color: whitesmoke;
